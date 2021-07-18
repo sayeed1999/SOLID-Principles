@@ -1,0 +1,12 @@
+D:\DOTNET\Assignment\assignment01\OOP\bin\Debug\net5.0\OOP.deps.json
+D:\DOTNET\Assignment\assignment01\OOP\bin\Debug\net5.0\OOP.dll
+D:\DOTNET\Assignment\assignment01\OOP\bin\Debug\net5.0\ref\OOP.dll
+D:\DOTNET\Assignment\assignment01\OOP\bin\Debug\net5.0\OOP.pdb
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.dll
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\ref\OOP.dll
+D:\DOTNET\Assignment\assignment01\OOP\obj\Debug\net5.0\OOP.pdb
